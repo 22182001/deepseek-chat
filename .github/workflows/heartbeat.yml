@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Call Vercel API
         run: |
-          curl -s "https://deepseek-chat-bvg7u4kwj-22182001.vercel.app/api/keepalive"
+          curl -s "https://deepseek-chat-t7rn-6cmd41eif-22182001.vercel.app/api/keepalive"
